@@ -1,6 +1,6 @@
 pandas
 streamlit
-scikit-sklearn
+scikit-learn
 mlxtend
 numpy 
 streamlit-shadcn-ui
