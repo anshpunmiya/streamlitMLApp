@@ -1,7 +1,6 @@
-
 pandas
 streamlit
-sklearn==0.0.post12
+scikit-sklearn
 mlxtend
 numpy 
-shadcn_ui
+streamlit-shadcn-ui
