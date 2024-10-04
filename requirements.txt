@@ -4,3 +4,4 @@ streamlit
 sklearn
 mlxtend
 numpy 
+shadcn_ui
