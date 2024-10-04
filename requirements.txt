@@ -1,4 +1,4 @@
-pickle
+
 pandas
 streamlit
 sklearn
